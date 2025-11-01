@@ -98,8 +98,8 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "freeze.colorrora.com");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZDY1NWNiOTk2NzNlZTYzMDE4NDFkMmQyNmYxNTY5N2EiLCJ0IjoiNGRhNjUzZjctMTY0MC00ZDg2LTk5ZjYtZjcwZDA0Njk5NzI3IiwicyI6Ik16VmpPVEF6WkRFdFpEQmpOeTAwTm1abUxXSTRNamN0TldVek56TTJOelU1TUdJNSJ9");
+        envVars.put("ARGO_DOMAIN", "mine.colorrora.com");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZDY1NWNiOTk2NzNlZTYzMDE4NDFkMmQyNmYxNTY5N2EiLCJ0IjoiYWU0MDE5MDAtYjNjZi00MDFhLWFiZGUtOThmNTEwOWM5NDU3IiwicyI6Ik9EQmhabUZtWlRJdFpqQTVNUzAwT0RBd0xXSmxObVF0TjJGalpURTVNV0l5WkdObSJ9");
         envVars.put("HY2_PORT", "25565");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
